@@ -27,3 +27,7 @@ git commit -m "temp commit"
  Final commit
 
  Date Changing commit process
+
+
+
+ New commit containing whole process
